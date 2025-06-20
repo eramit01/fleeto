@@ -1,0 +1,27 @@
+[33mcommit 3df9e10f41367d64624e3daa619b7cca77c269e7[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: eramit01 <ptamit7826@gmail.com>
+Date:   Fri Jun 20 08:07:23 2025 +0530
+
+    error resolved
+
+[33mcommit 6c5371d0da6ce5e2339043a8648f28e3ff71c226[m
+Author: eramit01 <ptamit7826@gmail.com>
+Date:   Fri Jun 20 07:53:49 2025 +0530
+
+    feat: add analytics integration and resolve TypeScript dependency conflicts
+    
+    - Integrated @vercel/analytics for tracking and analytics features
+    - Addressed TypeScript peer dependency conflicts caused by new analytics package and existing react-scripts setup
+    - Used --legacy-peer-deps during installation to ensure compatibility between
+
+[33mcommit 1e2bc9aa44461caa760f15f028d7e217b114247d[m
+Author: eramit01 <ptamit7826@gmail.com>
+Date:   Mon Dec 30 09:49:19 2024 +0530
+
+    first commit
+
+[33mcommit 58655a466611fb9ab20aff3bfd71dbc049d34deb[m
+Author: eramit01 <ptamit7826@gmail.com>
+Date:   Mon Dec 30 03:39:04 2024 +0530
+
+    first commit
