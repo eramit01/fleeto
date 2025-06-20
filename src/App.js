@@ -7,12 +7,14 @@ import Models from "./Pages/Models";
 import TestimonialsPage from "./Pages/TestimonialsPage";
 import Team from "./Pages/Team";
 import Contact from "./Pages/Contact";
+import { Analytics } from "@vercel/analytics/next";
 
 function App() {
   return (
     <>
       <Navbar />
       <Routes>
+        <Analytics/>
         <Route index path="/" element={<Home />} />
         <Route path="about" element={<About />} />
         <Route path="models" element={<Models />} />
